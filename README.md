@@ -58,3 +58,5 @@ Binary Cross-Entropy (BCE) is used for both G and D.
 
 # 💡Reference
 Link paper: [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+
+!update: will add Conditional GAN, training on progress
